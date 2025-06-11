@@ -1,0 +1,26 @@
+# Azure Document Intelligence
+azure-ai-formrecognizer>=3.3.0
+azure-core>=1.29.0
+
+# Document Processing
+python-docx>=0.8.11
+pandas>=2.0.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# Image Processing
+Pillow>=10.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Type Hints
+typing-extensions>=4.7.0
+
+# Sentence Transformers (for original multimodal chunker)
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilities
+python-dotenv>=1.0.0  # For environment variable management 

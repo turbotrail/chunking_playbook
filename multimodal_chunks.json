@@ -1,0 +1,604 @@
+[
+  {
+    "chunk_id": "chunk_0",
+    "content_type": "title",
+    "content": "Sample Document",
+    "metadata": {
+      "original_length": 15,
+      "style": "Heading 1"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_1",
+    "content_type": "paragraph",
+    "content": "This document was created using accessibility techniques for headings, lists, image alternate text, tables, and columns. It should be completely accessible using assistive technologies such as screen readers.",
+    "metadata": {
+      "original_length": 208,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_2",
+    "content_type": "title",
+    "content": "Headings",
+    "metadata": {
+      "original_length": 8,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_1"
+  },
+  {
+    "chunk_id": "chunk_3",
+    "content_type": "paragraph",
+    "content": "There are eight section headings in this document. At the beginning, \"Sample Document\" is a level 1 heading. The main section headings, such as \"Headings\" and \"Lists\" are level 2 headings. The Tables section contains two sub-headings, \"Simple Table\" and \"Complex Table,\" which are both level 3 headings.",
+    "metadata": {
+      "original_length": 303,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_4",
+    "content_type": "title",
+    "content": "Lists",
+    "metadata": {
+      "original_length": 5,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_3"
+  },
+  {
+    "chunk_id": "chunk_5",
+    "content_type": "paragraph",
+    "content": "The following outline of the sections of this document is an ordered (numbered) list with six items. The fifth item, \"Tables,\" contains a nested unordered (bulleted) list with two items.",
+    "metadata": {
+      "original_length": 186,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_6",
+    "content_type": "subparagraph",
+    "content": "Headings ",
+    "metadata": {
+      "original_length": 9,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_7",
+    "content_type": "subparagraph",
+    "content": "Lists ",
+    "metadata": {
+      "original_length": 6,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_8",
+    "content_type": "subparagraph",
+    "content": "Links ",
+    "metadata": {
+      "original_length": 6,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_9",
+    "content_type": "subparagraph",
+    "content": "Images ",
+    "metadata": {
+      "original_length": 7,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_10",
+    "content_type": "subparagraph",
+    "content": "Tables ",
+    "metadata": {
+      "original_length": 7,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_11",
+    "content_type": "subparagraph",
+    "content": "Simple Tables ",
+    "metadata": {
+      "original_length": 14,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_12",
+    "content_type": "subparagraph",
+    "content": "Complex Tables ",
+    "metadata": {
+      "original_length": 15,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_13",
+    "content_type": "subparagraph",
+    "content": "Columns ",
+    "metadata": {
+      "original_length": 8,
+      "style": "List Paragraph"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_14",
+    "content_type": "title",
+    "content": "Links",
+    "metadata": {
+      "original_length": 5,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_13"
+  },
+  {
+    "chunk_id": "chunk_15",
+    "content_type": "paragraph",
+    "content": "In web documents, links can point different locations on the page, different pages, or even downloadable documents, such as Word documents or PDFs:",
+    "metadata": {
+      "original_length": 147,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_16",
+    "content_type": "paragraph",
+    "content": "Top of this Page\nSample Document\nSample Document (docx)",
+    "metadata": {
+      "original_length": 55,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_17",
+    "content_type": "title",
+    "content": "Images",
+    "metadata": {
+      "original_length": 6,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_16"
+  },
+  {
+    "chunk_id": "chunk_18",
+    "content_type": "image",
+    "content": "[image: Image]",
+    "metadata": {
+      "original_length": 14,
+      "style": "Normal",
+      "metadata": {
+        "format": "GIF",
+        "size": [
+          141,
+          131
+        ],
+        "mode": "P",
+        "width": 141,
+        "height": 131
+      },
+      "base64_data": "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"
+    },
+    "level": 1,
+    "parent_id": null,
+    "summary": "Image: Image description. Extracted text: "
+  },
+  {
+    "chunk_id": "chunk_19",
+    "content_type": "paragraph",
+    "content": "Documents may contain images. For example, there is an image of the web accessibility symbol to the left of this paragraph. Its alternate text is \"Web Access Symbol\".",
+    "metadata": {
+      "original_length": 166,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_20",
+    "content_type": "paragraph",
+    "content": "Alt text should communicate what an image means, not how it looks.",
+    "metadata": {
+      "original_length": 66,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_21",
+    "content_type": "image",
+    "content": "[image: Md\n\nmJAWS\n= NVDA\n.\n\nindow-Eyes\nm System Access\n0 VoiceOver]",
+    "metadata": {
+      "original_length": 67,
+      "style": "Normal",
+      "metadata": {
+        "format": "PNG",
+        "size": [
+          284,
+          140
+        ],
+        "mode": "RGB",
+        "width": 284,
+        "height": 140,
+        "extracted_text": "Md\n\nmJAWS\n= NVDA\n.\n\nindow-Eyes\nm System Access\n0 VoiceOver"
+      },
+      "base64_data": "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"
+    },
+    "level": 1,
+    "parent_id": null,
+    "summary": "Image: Image description. Extracted text: "
+  },
+  {
+    "chunk_id": "chunk_22",
+    "content_type": "paragraph",
+    "content": "Some images, such as charts or graphs, require long descriptions, but not all document types allow that. In web pages, long descriptions may be provided in several ways: on the page below the image, via a link below the image, or via a link on the image.",
+    "metadata": {
+      "original_length": 254,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_23",
+    "content_type": "title",
+    "content": "Tables",
+    "metadata": {
+      "original_length": 6,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_22"
+  },
+  {
+    "chunk_id": "chunk_24",
+    "content_type": "title",
+    "content": "Simple Tables",
+    "metadata": {
+      "original_length": 13,
+      "style": "Heading 3"
+    },
+    "level": 3,
+    "parent_id": "chunk_23"
+  },
+  {
+    "chunk_id": "chunk_25",
+    "content_type": "paragraph",
+    "content": "Simple tables have a uniform number of columns and rows, without any merged cells:",
+    "metadata": {
+      "original_length": 82,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_26",
+    "content_type": "table",
+    "content": {
+      "headers": [
+        "Screen Reader",
+        "Responses",
+        "Share"
+      ],
+      "data": [
+        {
+          "Screen Reader": "JAWS",
+          "Responses": "853",
+          "Share": "49%"
+        },
+        {
+          "Screen Reader": "NVDA",
+          "Responses": "238",
+          "Share": "14%"
+        },
+        {
+          "Screen Reader": "Window-Eyes",
+          "Responses": "214",
+          "Share": "12%"
+        },
+        {
+          "Screen Reader": "System Access",
+          "Responses": "181",
+          "Share": "10%"
+        },
+        {
+          "Screen Reader": "VoiceOver",
+          "Responses": "159",
+          "Share": "9%"
+        }
+      ],
+      "shape": [
+        5,
+        3
+      ],
+      "summary": {
+        "column_types": {
+          "Screen Reader": "object",
+          "Responses": "object",
+          "Share": "object"
+        },
+        "missing_values": {
+          "Screen Reader": 0,
+          "Responses": 0,
+          "Share": 0
+        }
+      }
+    },
+    "metadata": {
+      "original_length": 582,
+      "style": "Table",
+      "table_structure": {
+        "headers": [
+          "Screen Reader",
+          "Responses",
+          "Share"
+        ],
+        "data": [
+          {
+            "Screen Reader": "JAWS",
+            "Responses": "853",
+            "Share": "49%"
+          },
+          {
+            "Screen Reader": "NVDA",
+            "Responses": "238",
+            "Share": "14%"
+          },
+          {
+            "Screen Reader": "Window-Eyes",
+            "Responses": "214",
+            "Share": "12%"
+          },
+          {
+            "Screen Reader": "System Access",
+            "Responses": "181",
+            "Share": "10%"
+          },
+          {
+            "Screen Reader": "VoiceOver",
+            "Responses": "159",
+            "Share": "9%"
+          }
+        ],
+        "shape": [
+          5,
+          3
+        ],
+        "summary": {
+          "column_types": {
+            "Screen Reader": "object",
+            "Responses": "object",
+            "Share": "object"
+          },
+          "missing_values": {
+            "Screen Reader": 0,
+            "Responses": 0,
+            "Share": 0
+          }
+        }
+      }
+    },
+    "level": 1,
+    "parent_id": null,
+    "summary": "Here\u2019s a summary of the data:\n\nThis table shows the number of users accessing a system through various screen readers. JAWS has the highest user base (853), representing 49% of users. NVDA is the second most popular with 238 users (14%), followed by Window-Eyes (214, 12%) and System Access (181, 10%). VoiceOver has the lowest number of users at 159 (9%).  Essentially, JAWS is the dominant screen reader in this group."
+  },
+  {
+    "chunk_id": "chunk_27",
+    "content_type": "title",
+    "content": "Complex Tables",
+    "metadata": {
+      "original_length": 14,
+      "style": "Heading 3"
+    },
+    "level": 3,
+    "parent_id": "chunk_26"
+  },
+  {
+    "chunk_id": "chunk_28",
+    "content_type": "paragraph",
+    "content": "The following is a complex table, using merged cells as headers for sections within the table. This can't be made accessible in all types of documents:",
+    "metadata": {
+      "original_length": 151,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_29",
+    "content_type": "table",
+    "content": {
+      "headers": [
+        "",
+        "May 2012",
+        "May 2012",
+        "September 2010",
+        "September 2010"
+      ],
+      "data": [
+        {
+          "": "Screen Reader",
+          "May 2012": "Share",
+          "September 2010": "Share"
+        },
+        {
+          "": "JAWS",
+          "May 2012": "49%",
+          "September 2010": "59%"
+        },
+        {
+          "": "NVDA",
+          "May 2012": "14%",
+          "September 2010": "9%"
+        },
+        {
+          "": "Window-Eyes",
+          "May 2012": "12%",
+          "September 2010": "11%"
+        },
+        {
+          "": "System Access",
+          "May 2012": "10%",
+          "September 2010": "5%"
+        },
+        {
+          "": "VoiceOver",
+          "May 2012": "9%",
+          "September 2010": "10%"
+        }
+      ],
+      "shape": [
+        6,
+        5
+      ],
+      "summary": {
+        "column_types": {
+          "": "object",
+          "May 2012": "object",
+          "September 2010": "object"
+        },
+        "missing_values": {
+          "": 0,
+          "May 2012": 0,
+          "September 2010": 0
+        }
+      }
+    },
+    "metadata": {
+      "original_length": 641,
+      "style": "Table",
+      "table_structure": {
+        "headers": [
+          "",
+          "May 2012",
+          "May 2012",
+          "September 2010",
+          "September 2010"
+        ],
+        "data": [
+          {
+            "": "Screen Reader",
+            "May 2012": "Share",
+            "September 2010": "Share"
+          },
+          {
+            "": "JAWS",
+            "May 2012": "49%",
+            "September 2010": "59%"
+          },
+          {
+            "": "NVDA",
+            "May 2012": "14%",
+            "September 2010": "9%"
+          },
+          {
+            "": "Window-Eyes",
+            "May 2012": "12%",
+            "September 2010": "11%"
+          },
+          {
+            "": "System Access",
+            "May 2012": "10%",
+            "September 2010": "5%"
+          },
+          {
+            "": "VoiceOver",
+            "May 2012": "9%",
+            "September 2010": "10%"
+          }
+        ],
+        "shape": [
+          6,
+          5
+        ],
+        "summary": {
+          "column_types": {
+            "": "object",
+            "May 2012": "object",
+            "September 2010": "object"
+          },
+          "missing_values": {
+            "": 0,
+            "May 2012": 0,
+            "September 2010": 0
+          }
+        }
+      }
+    },
+    "level": 1,
+    "parent_id": null,
+    "summary": "Here\u2019s a summary of the data presented in the table:\n\n**In May 2012, JAWS was the most widely used screen reader at 49%, followed closely by JAWS at 49%. NVDA and Window-Eyes had significantly lower adoption rates at 14% and 12% respectively.**\n\n**Looking back to September 2010, JAWS had a higher overall usage (59%) compared to May 2012 (49%).**  NVDA and Window-Eyes also showed a decrease in usage between the two periods.  System Access usage remained relatively consistent across all periods. VoiceOver usage was consistently lower than the other screen readers. \n\n---\n\nWould you like me to highlight any specific aspect of this data, such as the changes in usage over time?"
+  },
+  {
+    "chunk_id": "chunk_30",
+    "content_type": "title",
+    "content": "Columns",
+    "metadata": {
+      "original_length": 7,
+      "style": "Heading 2"
+    },
+    "level": 2,
+    "parent_id": "chunk_29"
+  },
+  {
+    "chunk_id": "chunk_31",
+    "content_type": "paragraph",
+    "content": "This is an example of columns. With columns, the page is split into two or more horizontal sections. Unlike tables, in which you usually read across a row and then down to the next, in columns, you read down a column and then across to the next.",
+    "metadata": {
+      "original_length": 245,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "chunk_id": "chunk_32",
+    "content_type": "paragraph",
+    "content": "When columns are not created correctly, screen readers may run lines together, reading the first line of the first column, then the first line of the second column, then the second line of the first column, and so on. Obviously, that is not accessible.",
+    "metadata": {
+      "original_length": 252,
+      "style": "Normal"
+    },
+    "level": 1,
+    "parent_id": null
+  }
+]

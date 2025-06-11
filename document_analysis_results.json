@@ -1,0 +1,552 @@
+{
+  "pages": 2,
+  "languages": [],
+  "paragraphs": [
+    {
+      "content": "Electronic Reservation Slip (ERS)-Normal User",
+      "role": "title"
+    },
+    {
+      "content": "INDIAN",
+      "role": null
+    },
+    {
+      "content": "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0947",
+      "role": null
+    },
+    {
+      "content": "Booked From",
+      "role": null
+    },
+    {
+      "content": "CHENNAI EGMORE (MS)",
+      "role": null
+    },
+    {
+      "content": "Start Date* 17-Mar-2025",
+      "role": null
+    },
+    {
+      "content": "PNR",
+      "role": null
+    },
+    {
+      "content": "4116212360",
+      "role": null
+    },
+    {
+      "content": "Quota",
+      "role": null
+    },
+    {
+      "content": "TATKAL (TQ)",
+      "role": null
+    },
+    {
+      "content": "Passenger Details",
+      "role": null
+    },
+    {
+      "content": "Boarding At",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "CHENNAI EGMORE (MS) Departure* 21:40 17-Mar-2025",
+      "role": null
+    },
+    {
+      "content": "Train No./Name",
+      "role": null
+    },
+    {
+      "content": "12637 / PANDIAN SF EXP",
+      "role": null
+    },
+    {
+      "content": "Distance",
+      "role": null
+    },
+    {
+      "content": "497 KM",
+      "role": null
+    },
+    {
+      "content": "To",
+      "role": null
+    },
+    {
+      "content": "IRCTC",
+      "role": null
+    },
+    {
+      "content": "MADURAI JN (MDU) Arrival* 05:25 18-Mar-2025",
+      "role": null
+    },
+    {
+      "content": "Class",
+      "role": null
+    },
+    {
+      "content": "SECOND AC (2A)",
+      "role": null
+    },
+    {
+      "content": "Booking Date",
+      "role": null
+    },
+    {
+      "content": "16-Mar-2025 10:01:18 HRS",
+      "role": null
+    },
+    {
+      "content": "# Name",
+      "role": null
+    },
+    {
+      "content": "Age",
+      "role": null
+    },
+    {
+      "content": "Gender",
+      "role": null
+    },
+    {
+      "content": "Booking Status",
+      "role": null
+    },
+    {
+      "content": "Current Status",
+      "role": null
+    },
+    {
+      "content": "1. SORNARANI S",
+      "role": null
+    },
+    {
+      "content": "56",
+      "role": null
+    },
+    {
+      "content": "F",
+      "role": null
+    },
+    {
+      "content": "CNF/A2/1/LOWER",
+      "role": null
+    },
+    {
+      "content": "CNF /A2/1/LOWER",
+      "role": null
+    },
+    {
+      "content": "Acronyms: RLWL: REMOTE LOCATION WAITLIST",
+      "role": null
+    },
+    {
+      "content": "Transaction ID: 100005662347972 IR recovers only 57% of cost of travel on an average.",
+      "role": null
+    },
+    {
+      "content": "PQWL: POOLED QUOTA WAITLIST",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Payment Details",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Ticket Fare",
+      "role": null
+    },
+    {
+      "content": "\u20b9 1,590.00",
+      "role": null
+    },
+    {
+      "content": "IRCTC Convenience Fee (Incl. of GST)",
+      "role": null
+    },
+    {
+      "content": "\u20b9 35.40",
+      "role": null
+    },
+    {
+      "content": "e Wallet Transaction Charge",
+      "role": null
+    },
+    {
+      "content": "\u20b9 11.80",
+      "role": null
+    },
+    {
+      "content": "Travel Insurance Premium (Incl. of GST)",
+      "role": null
+    },
+    {
+      "content": "\u20b9 0.45",
+      "role": null
+    },
+    {
+      "content": "Total Fare (all inclusive)",
+      "role": null
+    },
+    {
+      "content": "\u20b9 1,637.65",
+      "role": null
+    },
+    {
+      "content": "RSWL: ROAD-SIDE WAITLIST",
+      "role": null
+    },
+    {
+      "content": "PG Charges as applicable (Additional)",
+      "role": null
+    },
+    {
+      "content": ". Beware of fraudulent customer care number. For any assistance, use only the IRCTC e-ticketing Customer care number: 14646.",
+      "role": null
+    },
+    {
+      "content": "IRCTC Convenience Fee is charged per e-ticket irrespective of number of passengers on the ticket. * The printed Departure and Arrival Times are liable to change. Please Check correct departure, arrival from Railway Station Enquiry or Dial 139 or SMS RAIL to 139.",
+      "role": null
+    },
+    {
+      "content": "\u00b7 This ticket is booked on a personal User ID, its sale/purchase is an offence u/s 143 of the Railways Act,1989. \u00b7 Prescribed original ID proof is required while travelling along with SMS/ VRM/ ERS otherwise will be treated as without ticket and penalized as per Railway Rules.",
+      "role": null
+    },
+    {
+      "content": "IRCTC",
+      "role": null
+    },
+    {
+      "content": "BEWARE OF",
+      "role": null
+    },
+    {
+      "content": "\"Beware of fake emails and messages: Verify",
+      "role": null
+    },
+    {
+      "content": "authenticity before responding.\"",
+      "role": null
+    },
+    {
+      "content": "FRAUDSTERS!",
+      "role": null
+    },
+    {
+      "content": "Indian Railways GST Details:",
+      "role": null
+    },
+    {
+      "content": "Invoice Number:",
+      "role": null
+    },
+    {
+      "content": "PS25411621236011",
+      "role": null
+    },
+    {
+      "content": "Supplier Information:",
+      "role": null
+    },
+    {
+      "content": "SAC Code:",
+      "role": null
+    },
+    {
+      "content": "996421",
+      "role": null
+    },
+    {
+      "content": "Recipient Information:",
+      "role": null
+    },
+    {
+      "content": "GSTIN:",
+      "role": null
+    },
+    {
+      "content": "NA",
+      "role": null
+    },
+    {
+      "content": "Name:",
+      "role": null
+    },
+    {
+      "content": "NA",
+      "role": null
+    },
+    {
+      "content": "Taxable Value:",
+      "role": null
+    },
+    {
+      "content": "1511",
+      "role": null
+    },
+    {
+      "content": "CGST Rate:",
+      "role": null
+    },
+    {
+      "content": "2.5%",
+      "role": null
+    },
+    {
+      "content": "SGST/UGST Rate:",
+      "role": null
+    },
+    {
+      "content": "IGST Rate:",
+      "role": null
+    },
+    {
+      "content": "5.0%",
+      "role": null
+    },
+    {
+      "content": "Total Tax:",
+      "role": null
+    },
+    {
+      "content": "75.55",
+      "role": null
+    },
+    {
+      "content": "Address:",
+      "role": null
+    },
+    {
+      "content": "Indian Railways New Delhi",
+      "role": null
+    },
+    {
+      "content": "GSTIN:",
+      "role": null
+    },
+    {
+      "content": "07AAAGM0289C1ZL",
+      "role": null
+    },
+    {
+      "content": "Address:",
+      "role": null
+    },
+    {
+      "content": "CGST Amount:",
+      "role": null
+    },
+    {
+      "content": "0.0",
+      "role": null
+    },
+    {
+      "content": "SGST/UGST Amount:",
+      "role": null
+    },
+    {
+      "content": "IGST Amount:",
+      "role": null
+    },
+    {
+      "content": "75.55",
+      "role": null
+    },
+    {
+      "content": "Place of Supply: Tamil Nadu(33) State Name/Code of Supplier: Delhi/DL",
+      "role": "title"
+    },
+    {
+      "content": "INSTRUCTIONS:",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "1. Prescribed Original ID proofs are :- Voter Identity Card / Passport / PAN Card / Driving License / Photo ID card issued by Central / State Govt. / Public Sector Undertakings of State / Central Government ,District Administrations , Municipal bodies and Panchayat Administrations which are having serial number / Student Identity Card with photograph issued by recognized School or College for their students / Nationalized Bank Passbook with photograph /Credit Cards issued by Banks with laminated photograph/Unique Identification Card \"Aadhaar\", m-Aadhaar, e-Aadhaar. /Passenger showing the Aadhaar/Driving Licence from the \"Issued Document\" section by logging into his/her DigiLocker account considered as valid proof of identity. (Documents uploaded by the user i.e. the document in \"Uploaded Document\" section will not be considered as a valid proof of identity).",
+      "role": null
+    },
+    {
+      "content": "2. PNRs having fully waitlisted status will be dropped and automatic refund of the ticket amount after deducting the applicable CLERKAGE by Railway shall be credited to the account used for payment for booking of the ticket. Passengers having fully waitlisted e-ticket are not allowed to board the train. However, the names of PARTIALLY waitlisted/confirmed and RAC ticket passenger will appear in the chart.",
+      "role": null
+    },
+    {
+      "content": "3. A clerkage charge of Rs.60 per passenger plus GST for AC Classes and Rs.60 per passenger for Non AC classes will be deducted if the ticket remains Waitlisted at the time of Cancellation/Charting.",
+      "role": null
+    },
+    {
+      "content": "4. Passengers travelling on a fully waitlisted e-ticket will be treated as Ticketless.",
+      "role": null
+    },
+    {
+      "content": "5. Obtain certificate from the TTE /Conductor in case of (a) PARTIALLY waitlisted e-ticket when LESS NO. OF PASSENGERS travel, (b)A.C FAILURE, (c)TRAVEL IN LOWER CLASS. This original certificate must be sent to GGM (IT), IRCTC, Internet Ticketing Centre, 2nd Floor, Tower-D, World Trade Centre, Nauroji Nagar, New Delhi- 110029, after filing TDR online within prescribed time for claiming refund.",
+      "role": null
+    },
+    {
+      "content": "6. In case, on a party e-ticket or a family e-ticket issued for travel of more than one passenger, some passengers have confirmed reservation and others are on RAC or waiting list, full refund of fare, less clerkage, shall be admissible for confirmed passengers also subject to the condition that the ticket shall be cancelled online or online TDR shall be filed for all the passengers upto thirty minutes before the scheduled departure of the train.",
+      "role": null
+    },
+    {
+      "content": "7. In case train is late more than 3 hours, refund is admissible as per railway refund rules only when TDR is filed by the user before the actual departure of the train at boarding station and passenger has not travelled.",
+      "role": null
+    },
+    {
+      "content": "8. In case of train cancellation on its entire run, full refund is granted automatically by the system. However, if the train is cancelled partially on its run or diverted and not touching boarding/destination station, passengers are required to file online TDR within 72 hours of scheduled departure of the train from passengers boarding station.",
+      "role": null
+    },
+    {
+      "content": "9. Never purchase e-ticket from unauthorized agents or persons using their personal IDs for commercial purposes. Such tickets are liable to be cancelled and forfeited without any refund of money, under section (143) of the Indian Railway Act 1989. List of authorized agents are available on www.irctc.co.in under 'Find NGet Agents' option.",
+      "role": null
+    },
+    {
+      "content": "10. For detail, Rules, Refund rules, Terms & Conditions of E-Ticketing services, Travel Insurance facility etc. Please visit www.irctc.co.in",
+      "role": null
+    },
+    {
+      "content": "11. While booking this ticket, you have agreed of having read the Health Protocol of Destination State of your travel. You are again advised to clearly read the Health Protocol advisory of destination state before start of your travel and follow them properly.",
+      "role": null
+    },
+    {
+      "content": "12. The FIR forms are available with on board ticket checking staff, train guard and train escorting RPF/GRP staff.",
+      "role": null
+    },
+    {
+      "content": "13. Variety of meals available in more than 1500 trains. For delivery of meal of your choice on your seat log on to www.ecatering.irctc.co.in or call 1323 Toll Free. For any suggestions/complaints related to Catering services, contact Toll Free No. 1800-111-321 (07.00 hrs to 22.00 hrs)",
+      "role": null
+    },
+    {
+      "content": "14. National Consumer Helpline (NCH) Toll Free Number: 1800-11-400 or 14404",
+      "role": null
+    },
+    {
+      "content": "15. You can book unreserved ticket from UTS APP or ATVMs (Automatic Ticket Vending Machines) located in Railway Stations.",
+      "role": null
+    },
+    {
+      "content": "16. As per RBI guidelines, the refund of Ticket should be given in the same Bank account, which was used for booking. It is necessary that the Bank Account used for booking online ticket should not be closed at least up to 30 days beyond the date of the journey. If accounts are found closed at the time of processing refund, the refund will be regretted by the Bank.",
+      "role": null
+    },
+    {
+      "content": "Customer Care:",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "\u00b7 For e-ticket booking ,cancellation and refund assistance , Please contact us at 14646 / 08044647999 /08035734999 or raise query at https://equery.irctc.co.in",
+      "role": null
+    },
+    {
+      "content": "\u00b7 Just dial 139 from your landline, mobile & CDMA phones for railway enquiries as well as for giving suggestions/filing complaints on Rail Madad.",
+      "role": null
+    },
+    {
+      "content": "\u00b7 For e-catering, to book and get food delivered on your train berth, please contact us at 1323 (24*7 Hrs Toll Free) or log on to www.ecatering.irctc.co.in.",
+      "role": null
+    },
+    {
+      "content": "Amount Deducted? Ticket Not Booked?",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "No Worries! Reuse the deducted amount for your next booking with IRCTC i Pay *T&C Apply",
+      "role": null
+    },
+    {
+      "content": "\u0905\u0917\u0930 \u0906\u092a \u0911\u0928\u0932\u093e\u0907\u0928 \u0920\u0917\u0940 \u0915\u0947 \u0936\u093f\u0915\u093e\u0930 \u0939\u0948\u0902 If you are a victim of cybercrime",
+      "role": null
+    },
+    {
+      "content": "Helpline No 1930",
+      "role": null
+    },
+    {
+      "content": "RuPays",
+      "role": null
+    },
+    {
+      "content": "Platform kis taraf ayega?",
+      "role": null
+    },
+    {
+      "content": "IACTO",
+      "role": null
+    },
+    {
+      "content": "Helpline No. 1930 and register your complaint at www.cybercrime.gov.in",
+      "role": null
+    },
+    {
+      "content": "APPLY NOW",
+      "role": null
+    },
+    {
+      "content": "Get 40x Benefits",
+      "role": null
+    },
+    {
+      "content": "PO RAL BANK ---",
+      "role": null
+    },
+    {
+      "content": "\"TLC Apply",
+      "role": null
+    }
+  ],
+  "tables": [
+    {
+      "confidence": null,
+      "cells": [
+        {
+          "content": "# Name",
+          "row_index": 0,
+          "column_index": 0
+        },
+        {
+          "content": "Age",
+          "row_index": 0,
+          "column_index": 1
+        },
+        {
+          "content": "Gender",
+          "row_index": 0,
+          "column_index": 2
+        },
+        {
+          "content": "Booking Status",
+          "row_index": 0,
+          "column_index": 3
+        },
+        {
+          "content": "Current Status",
+          "row_index": 0,
+          "column_index": 4
+        },
+        {
+          "content": "1. SORNARANI S",
+          "row_index": 1,
+          "column_index": 0
+        },
+        {
+          "content": "56",
+          "row_index": 1,
+          "column_index": 1
+        },
+        {
+          "content": "F",
+          "row_index": 1,
+          "column_index": 2
+        },
+        {
+          "content": "CNF/A2/1/LOWER",
+          "row_index": 1,
+          "column_index": 3
+        },
+        {
+          "content": "CNF /A2/1/LOWER",
+          "row_index": 1,
+          "column_index": 4
+        }
+      ]
+    }
+  ],
+  "images": []
+}

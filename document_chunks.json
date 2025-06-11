@@ -1,0 +1,1003 @@
+[
+  {
+    "chunk_id": "chunk_0",
+    "content_type": "paragraph",
+    "content": "Electronic Reservation Slip (ERS)-Normal User",
+    "metadata": {
+      "role": "title"
+    }
+  },
+  {
+    "chunk_id": "chunk_1",
+    "content_type": "paragraph",
+    "content": "INDIAN",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "content_type": "paragraph",
+    "content": "\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0947",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "content_type": "paragraph",
+    "content": "Booked From",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "content_type": "paragraph",
+    "content": "CHENNAI EGMORE (MS)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "content_type": "paragraph",
+    "content": "Start Date* 17-Mar-2025",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "content_type": "paragraph",
+    "content": "PNR",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "content_type": "paragraph",
+    "content": "4116212360",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "content_type": "paragraph",
+    "content": "Quota",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "content_type": "paragraph",
+    "content": "TATKAL (TQ)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "content_type": "paragraph",
+    "content": "Passenger Details",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "content_type": "paragraph",
+    "content": "Boarding At",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "content_type": "paragraph",
+    "content": "CHENNAI EGMORE (MS) Departure* 21:40 17-Mar-2025",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "content_type": "paragraph",
+    "content": "Train No./Name",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "content_type": "paragraph",
+    "content": "12637 / PANDIAN SF EXP",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "content_type": "paragraph",
+    "content": "Distance",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "content_type": "paragraph",
+    "content": "497 KM",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "content_type": "paragraph",
+    "content": "To",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "content_type": "paragraph",
+    "content": "IRCTC",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "content_type": "paragraph",
+    "content": "MADURAI JN (MDU) Arrival* 05:25 18-Mar-2025",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "content_type": "paragraph",
+    "content": "Class",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "content_type": "paragraph",
+    "content": "SECOND AC (2A)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "content_type": "paragraph",
+    "content": "Booking Date",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "content_type": "paragraph",
+    "content": "16-Mar-2025 10:01:18 HRS",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "content_type": "paragraph",
+    "content": "# Name",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "content_type": "paragraph",
+    "content": "Age",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "content_type": "paragraph",
+    "content": "Gender",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "content_type": "paragraph",
+    "content": "Booking Status",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "content_type": "paragraph",
+    "content": "Current Status",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "content_type": "paragraph",
+    "content": "1. SORNARANI S",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "content_type": "paragraph",
+    "content": "56",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "content_type": "paragraph",
+    "content": "F",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "content_type": "paragraph",
+    "content": "CNF/A2/1/LOWER",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "content_type": "paragraph",
+    "content": "CNF /A2/1/LOWER",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "content_type": "paragraph",
+    "content": "Acronyms: RLWL: REMOTE LOCATION WAITLIST",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "content_type": "paragraph",
+    "content": "Transaction ID: 100005662347972 IR recovers only 57% of cost of travel on an average.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "content_type": "paragraph",
+    "content": "PQWL: POOLED QUOTA WAITLIST",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "content_type": "paragraph",
+    "content": "Payment Details",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "content_type": "paragraph",
+    "content": "Ticket Fare",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "content_type": "paragraph",
+    "content": "\u20b9 1,590.00",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "content_type": "paragraph",
+    "content": "IRCTC Convenience Fee (Incl. of GST)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "content_type": "paragraph",
+    "content": "\u20b9 35.40",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "content_type": "paragraph",
+    "content": "e Wallet Transaction Charge",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "content_type": "paragraph",
+    "content": "\u20b9 11.80",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "content_type": "paragraph",
+    "content": "Travel Insurance Premium (Incl. of GST)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "content_type": "paragraph",
+    "content": "\u20b9 0.45",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "content_type": "paragraph",
+    "content": "Total Fare (all inclusive)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "content_type": "paragraph",
+    "content": "\u20b9 1,637.65",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "content_type": "paragraph",
+    "content": "RSWL: ROAD-SIDE WAITLIST",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "content_type": "paragraph",
+    "content": "PG Charges as applicable (Additional)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "content_type": "paragraph",
+    "content": ". Beware of fraudulent customer care number. For any assistance, use only the IRCTC e-ticketing Customer care number: 14646.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "content_type": "paragraph",
+    "content": "IRCTC Convenience Fee is charged per e-ticket irrespective of number of passengers on the ticket. * The printed Departure and Arrival Times are liable to change. Please Check correct departure, arrival from Railway Station Enquiry or Dial 139 or SMS RAIL to 139.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "content_type": "paragraph",
+    "content": "\u00b7 This ticket is booked on a personal User ID, its sale/purchase is an offence u/s 143 of the Railways Act,1989. \u00b7 Prescribed original ID proof is required while travelling along with SMS/ VRM/ ERS otherwise will be treated as without ticket and penalized as per Railway Rules.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "content_type": "paragraph",
+    "content": "IRCTC",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "content_type": "paragraph",
+    "content": "BEWARE OF",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "content_type": "paragraph",
+    "content": "\"Beware of fake emails and messages: Verify",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "content_type": "paragraph",
+    "content": "authenticity before responding.\"",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "content_type": "paragraph",
+    "content": "FRAUDSTERS!",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "content_type": "paragraph",
+    "content": "Indian Railways GST Details:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "content_type": "paragraph",
+    "content": "Invoice Number:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "content_type": "paragraph",
+    "content": "PS25411621236011",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "content_type": "paragraph",
+    "content": "Supplier Information:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "content_type": "paragraph",
+    "content": "SAC Code:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "content_type": "paragraph",
+    "content": "996421",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "content_type": "paragraph",
+    "content": "Recipient Information:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "content_type": "paragraph",
+    "content": "GSTIN:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "content_type": "paragraph",
+    "content": "NA",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "content_type": "paragraph",
+    "content": "Name:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "content_type": "paragraph",
+    "content": "NA",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "content_type": "paragraph",
+    "content": "Taxable Value:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "content_type": "paragraph",
+    "content": "1511",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "content_type": "paragraph",
+    "content": "CGST Rate:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "content_type": "paragraph",
+    "content": "2.5%",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_73",
+    "content_type": "paragraph",
+    "content": "SGST/UGST Rate:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_74",
+    "content_type": "paragraph",
+    "content": "IGST Rate:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_75",
+    "content_type": "paragraph",
+    "content": "5.0%",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_76",
+    "content_type": "paragraph",
+    "content": "Total Tax:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_77",
+    "content_type": "paragraph",
+    "content": "75.55",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_78",
+    "content_type": "paragraph",
+    "content": "Address:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_79",
+    "content_type": "paragraph",
+    "content": "Indian Railways New Delhi",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_80",
+    "content_type": "paragraph",
+    "content": "GSTIN:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_81",
+    "content_type": "paragraph",
+    "content": "07AAAGM0289C1ZL",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_82",
+    "content_type": "paragraph",
+    "content": "Address:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_83",
+    "content_type": "paragraph",
+    "content": "CGST Amount:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_84",
+    "content_type": "paragraph",
+    "content": "0.0",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_85",
+    "content_type": "paragraph",
+    "content": "SGST/UGST Amount:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_86",
+    "content_type": "paragraph",
+    "content": "IGST Amount:",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_87",
+    "content_type": "paragraph",
+    "content": "75.55",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_88",
+    "content_type": "paragraph",
+    "content": "Place of Supply: Tamil Nadu(33) State Name/Code of Supplier: Delhi/DL",
+    "metadata": {
+      "role": "title"
+    }
+  },
+  {
+    "chunk_id": "chunk_89",
+    "content_type": "paragraph",
+    "content": "INSTRUCTIONS:",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_90",
+    "content_type": "paragraph",
+    "content": "1. Prescribed Original ID proofs are :- Voter Identity Card / Passport / PAN Card / Driving License / Photo ID card issued by Central / State Govt. / Public Sector Undertakings of State / Central Government ,District Administrations , Municipal bodies and Panchayat Administrations which are having serial number / Student Identity Card with photograph issued by recognized School or College for their students / Nationalized Bank Passbook with photograph /Credit Cards issued by Banks with laminated photograph/Unique Identification Card \"Aadhaar\", m-Aadhaar, e-Aadhaar. /Passenger showing the Aadhaar/Driving Licence from the \"Issued Document\" section by logging into his/her DigiLocker account considered as valid proof of identity. (Documents uploaded by the user i.e. the document in \"Uploaded Document\" section will not be considered as a valid proof of identity).",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_91",
+    "content_type": "paragraph",
+    "content": "2. PNRs having fully waitlisted status will be dropped and automatic refund of the ticket amount after deducting the applicable CLERKAGE by Railway shall be credited to the account used for payment for booking of the ticket. Passengers having fully waitlisted e-ticket are not allowed to board the train. However, the names of PARTIALLY waitlisted/confirmed and RAC ticket passenger will appear in the chart.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_92",
+    "content_type": "paragraph",
+    "content": "3. A clerkage charge of Rs.60 per passenger plus GST for AC Classes and Rs.60 per passenger for Non AC classes will be deducted if the ticket remains Waitlisted at the time of Cancellation/Charting.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_93",
+    "content_type": "paragraph",
+    "content": "4. Passengers travelling on a fully waitlisted e-ticket will be treated as Ticketless.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_94",
+    "content_type": "paragraph",
+    "content": "5. Obtain certificate from the TTE /Conductor in case of (a) PARTIALLY waitlisted e-ticket when LESS NO. OF PASSENGERS travel, (b)A.C FAILURE, (c)TRAVEL IN LOWER CLASS. This original certificate must be sent to GGM (IT), IRCTC, Internet Ticketing Centre, 2nd Floor, Tower-D, World Trade Centre, Nauroji Nagar, New Delhi- 110029, after filing TDR online within prescribed time for claiming refund.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_95",
+    "content_type": "paragraph",
+    "content": "6. In case, on a party e-ticket or a family e-ticket issued for travel of more than one passenger, some passengers have confirmed reservation and others are on RAC or waiting list, full refund of fare, less clerkage, shall be admissible for confirmed passengers also subject to the condition that the ticket shall be cancelled online or online TDR shall be filed for all the passengers upto thirty minutes before the scheduled departure of the train.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_96",
+    "content_type": "paragraph",
+    "content": "7. In case train is late more than 3 hours, refund is admissible as per railway refund rules only when TDR is filed by the user before the actual departure of the train at boarding station and passenger has not travelled.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_97",
+    "content_type": "paragraph",
+    "content": "8. In case of train cancellation on its entire run, full refund is granted automatically by the system. However, if the train is cancelled partially on its run or diverted and not touching boarding/destination station, passengers are required to file online TDR within 72 hours of scheduled departure of the train from passengers boarding station.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_98",
+    "content_type": "paragraph",
+    "content": "9. Never purchase e-ticket from unauthorized agents or persons using their personal IDs for commercial purposes. Such tickets are liable to be cancelled and forfeited without any refund of money, under section (143) of the Indian Railway Act 1989. List of authorized agents are available on www.irctc.co.in under 'Find NGet Agents' option.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_99",
+    "content_type": "paragraph",
+    "content": "10. For detail, Rules, Refund rules, Terms & Conditions of E-Ticketing services, Travel Insurance facility etc. Please visit www.irctc.co.in",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_100",
+    "content_type": "paragraph",
+    "content": "11. While booking this ticket, you have agreed of having read the Health Protocol of Destination State of your travel. You are again advised to clearly read the Health Protocol advisory of destination state before start of your travel and follow them properly.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_101",
+    "content_type": "paragraph",
+    "content": "12. The FIR forms are available with on board ticket checking staff, train guard and train escorting RPF/GRP staff.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_102",
+    "content_type": "paragraph",
+    "content": "13. Variety of meals available in more than 1500 trains. For delivery of meal of your choice on your seat log on to www.ecatering.irctc.co.in or call 1323 Toll Free. For any suggestions/complaints related to Catering services, contact Toll Free No. 1800-111-321 (07.00 hrs to 22.00 hrs)",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_103",
+    "content_type": "paragraph",
+    "content": "14. National Consumer Helpline (NCH) Toll Free Number: 1800-11-400 or 14404",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_104",
+    "content_type": "paragraph",
+    "content": "15. You can book unreserved ticket from UTS APP or ATVMs (Automatic Ticket Vending Machines) located in Railway Stations.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_105",
+    "content_type": "paragraph",
+    "content": "16. As per RBI guidelines, the refund of Ticket should be given in the same Bank account, which was used for booking. It is necessary that the Bank Account used for booking online ticket should not be closed at least up to 30 days beyond the date of the journey. If accounts are found closed at the time of processing refund, the refund will be regretted by the Bank.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_106",
+    "content_type": "paragraph",
+    "content": "Customer Care:",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_107",
+    "content_type": "paragraph",
+    "content": "\u00b7 For e-ticket booking ,cancellation and refund assistance , Please contact us at 14646 / 08044647999 /08035734999 or raise query at https://equery.irctc.co.in",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_108",
+    "content_type": "paragraph",
+    "content": "\u00b7 Just dial 139 from your landline, mobile & CDMA phones for railway enquiries as well as for giving suggestions/filing complaints on Rail Madad.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_109",
+    "content_type": "paragraph",
+    "content": "\u00b7 For e-catering, to book and get food delivered on your train berth, please contact us at 1323 (24*7 Hrs Toll Free) or log on to www.ecatering.irctc.co.in.",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_110",
+    "content_type": "paragraph",
+    "content": "Amount Deducted? Ticket Not Booked?",
+    "metadata": {
+      "role": "sectionHeading"
+    }
+  },
+  {
+    "chunk_id": "chunk_111",
+    "content_type": "paragraph",
+    "content": "No Worries! Reuse the deducted amount for your next booking with IRCTC i Pay *T&C Apply",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_112",
+    "content_type": "paragraph",
+    "content": "\u0905\u0917\u0930 \u0906\u092a \u0911\u0928\u0932\u093e\u0907\u0928 \u0920\u0917\u0940 \u0915\u0947 \u0936\u093f\u0915\u093e\u0930 \u0939\u0948\u0902 If you are a victim of cybercrime",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_113",
+    "content_type": "paragraph",
+    "content": "Helpline No 1930",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_114",
+    "content_type": "paragraph",
+    "content": "RuPays",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_115",
+    "content_type": "paragraph",
+    "content": "Platform kis taraf ayega?",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_116",
+    "content_type": "paragraph",
+    "content": "IACTO",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_117",
+    "content_type": "paragraph",
+    "content": "Helpline No. 1930 and register your complaint at www.cybercrime.gov.in",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_118",
+    "content_type": "paragraph",
+    "content": "APPLY NOW",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_119",
+    "content_type": "paragraph",
+    "content": "Get 40x Benefits",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_120",
+    "content_type": "paragraph",
+    "content": "PO RAL BANK ---",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_121",
+    "content_type": "paragraph",
+    "content": "\"TLC Apply",
+    "metadata": {
+      "role": null
+    }
+  },
+  {
+    "chunk_id": "chunk_122",
+    "content_type": "table",
+    "content": [
+      [
+        "# Name",
+        "Age",
+        "Gender",
+        "Booking Status",
+        "Current Status"
+      ],
+      [
+        "1. SORNARANI S",
+        "56",
+        "F",
+        "CNF/A2/1/LOWER",
+        "CNF /A2/1/LOWER"
+      ]
+    ],
+    "metadata": {
+      "confidence": null,
+      "row_count": 2,
+      "column_count": 5
+    }
+  }
+]
